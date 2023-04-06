@@ -96,3 +96,88 @@
 </body>
 
 </html>
+
+*{
+    margin: 10px;
+    padding: 0px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+    color: palevioletred;
+        border-radius: 10px;
+}
+
+#Contact{
+    margin: auto;
+    margin-right: 25px;
+    text-align: right;
+
+
+}
+header{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: palevioletred;
+     padding-bottom: 10px;
+    height: 3px;
+    width: 98%;
+    margin-bottom: 10px;
+}
+
+#name{
+    float: center;
+    margin-right: 25px;
+    color: palevioletred;
+    padding-bottom: 10px;
+    font-size: larger;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    }
+#Introduction{
+    float: center;
+    margin: 25px;
+    padding-bottom: 10px;
+    
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: none;
+    color: palevioletred;
+}
+
+
+#image{
+    display: inline;
+    border: 0px solid black;
+    max-width: 100%;
+}
+#profile{
+font-style:normal;
+font-family: 'Times New Roman', Times, serif;
+padding-bottom: 10px;
+margin-bottom: 5px;
+
+}
+
+table{
+    float: center;
+    border:1px black;
+}
+th{
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+td{
+ float: center;
+}
+
+
+
+table th{
+    margin-top: 1px;
+    padding: 20px;
+}
